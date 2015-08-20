@@ -12,3 +12,42 @@
 /* BASE RULES */
 /**************/
 
+body, * {
+	font-family: $trebuchet;
+	color: $gray;
+}
+
+.menu {
+	float: left;
+	width: 20%;
+
+	ul { 
+		list-style-type: none;
+		padding-left: 0.875em;
+
+		li {
+			margin-bottom: 0.125em;
+		}
+	}
+
+	.category {
+		font-weight: bold;
+		padding-left: 0.875em;
+	}
+
+	img {
+		display: block;
+		margin: 0 auto;
+	}
+
+}
+
+a.anchor {
+	color: $orange;
+	text-decoration: none;		
+}
+
+.main {
+	float: left;
+	width: 80%;
+}
