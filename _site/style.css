@@ -26,6 +26,10 @@ body, * {
   margin: 0 auto;
 }
 
+.fb-comments {
+  margin: 0 auto;
+}
+
 a.anchor {
   color: #c60;
   text-decoration: none;
