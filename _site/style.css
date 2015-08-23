@@ -37,5 +37,13 @@ a.anchor {
 
 .main {
   float: left;
-  width: 80%;
+  width: 70%;
+}
+.main p {
+  text-align: justify;
+}
+.main p img {
+  max-width: 100%;
+  display: block;
+  margin: 5px auto;
 }
