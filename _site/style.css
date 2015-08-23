@@ -35,6 +35,10 @@ a.anchor {
   text-decoration: none;
 }
 
+.post h1 {
+  color: #c60;
+}
+
 .main {
   float: left;
   width: 70%;
