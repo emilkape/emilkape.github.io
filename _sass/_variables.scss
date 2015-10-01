@@ -4,8 +4,12 @@
 //
 
 // Colors
+$background: #e8e8e8;
 $gray: #404040;
-$orange: #c60;
+$orange: #ff9800;
+$content: #263248;
+// $RESERVE: #7E8AA2;
 
 // Font stacks
-$trebuchet: Trebuchet, Arial, sans-serif;
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,300);
+$trebuchet: 'Lato' sans-serif;

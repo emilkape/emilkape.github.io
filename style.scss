@@ -14,14 +14,14 @@
 
 body, * {
 	font-family: $trebuchet;
-	color: $gray;
+	color: $content;
 }
 
 .menu {
 	float: left;
 	width: 20%;
 
-	ul { 
+	ul {
 		list-style-type: none;
 		padding-left: 0.875em;
 
@@ -48,7 +48,7 @@ body, * {
 
 a.anchor {
 	color: $orange;
-	text-decoration: none;		
+	text-decoration: none;
 }
 
 .post h1 {
@@ -63,9 +63,13 @@ a.anchor {
 		text-align: justify;
 
 		img {
-			max-width: 100%;
+			width: 100%;
 			display: block;
 			margin: 5px auto;
+
+			&.portrait {
+				width: 45%;
+			}
 		}
 	}
 }

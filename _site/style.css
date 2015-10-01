@@ -1,9 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,300);
 /**************/
 /* BASE RULES */
 /**************/
 body, * {
-  font-family: Trebuchet, Arial, sans-serif;
-  color: #404040;
+  font-family: "Lato" sans-serif;
+  color: #263248;
 }
 
 .menu {
@@ -31,12 +32,12 @@ body, * {
 }
 
 a.anchor {
-  color: #c60;
+  color: #ff9800;
   text-decoration: none;
 }
 
 .post h1 {
-  color: #c60;
+  color: #ff9800;
 }
 
 .main {
@@ -47,7 +48,10 @@ a.anchor {
   text-align: justify;
 }
 .main p img {
-  max-width: 100%;
+  width: 100%;
   display: block;
   margin: 5px auto;
+}
+.main p img.portrait {
+  width: 45%;
 }
