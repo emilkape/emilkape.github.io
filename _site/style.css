@@ -48,10 +48,7 @@ a.anchor {
   text-align: justify;
 }
 .main p img {
-  width: 100%;
   display: block;
   margin: 5px auto;
-}
-.main p img.portrait {
-  width: 45%;
+  border: 5px solid #FFF;
 }

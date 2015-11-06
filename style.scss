@@ -63,13 +63,10 @@ a.anchor {
 		text-align: justify;
 
 		img {
-			width: 100%;
 			display: block;
 			margin: 5px auto;
+			border: 5px solid #FFF;
 
-			&.portrait {
-				width: 45%;
-			}
 		}
 	}
 }

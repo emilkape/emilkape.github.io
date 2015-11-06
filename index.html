@@ -8,9 +8,15 @@ layout: default
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}" class="anchor">{{ post.title }}</a></h1>
 
-      <div class="entry">
-        {{ post.summary }}
-      </div>
+      {% if post.summary != nil %}
+        <div class="entry">
+          {{ post.summary }}
+        </div>
+      {% endif %}
+
+      {% if post.cover != nil %}
+        <img src="{{ site.baseurl }}/{{ post.cover }}">
+      {% endif %}
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more anchor">Czytaj więcej</a>
     </article>
