@@ -6,6 +6,7 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
+      <p class="creation_date">{{ post.date | date: '%d/%m/%Y' }}</p>
       <h1><a href="{{ site.baseurl }}{{ post.url }}" class="anchor">{{ post.title }}</a></h1>
 
       {% if post.summary != nil %}
@@ -18,7 +19,9 @@ layout: default
         <img src="{{ site.baseurl }}/{{ post.cover }}">
       {% endif %}
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more anchor">Czytaj więcej</a>
+      <div style="text-align: center">
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more anchor">Więcej</a>
+      </div>
     </article>
   {% endfor %}
 </div>

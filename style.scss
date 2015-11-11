@@ -13,17 +13,34 @@
 /**************/
 
 body, * {
-	font-family: $trebuchet;
+	font-family: $main_font;
 	color: $content;
 }
 
+p, i {
+	color: $dark;
+}
+
 .menu {
+
+	.top_logo {
+			width: 90%;
+			margin-top: 40px;
+			margin-bottom: 75px;
+	}
+
 	float: left;
 	width: 20%;
+
+	a.anchor {
+		color: $light;
+	}
 
 	ul {
 		list-style-type: none;
 		padding-left: 0.875em;
+		margin-top: 0;
+		margin-bottom: 25px;
 
 		li {
 			margin-bottom: 0.125em;
@@ -31,8 +48,13 @@ body, * {
 	}
 
 	.category {
-		font-weight: bold;
 		padding-left: 0.875em;
+		color: $dark;
+	}
+
+	a.no_children {
+		color: $dark;
+		text-transform: uppercase;
 	}
 
 	img {
@@ -43,19 +65,45 @@ body, * {
 }
 
 .fb-comments {
-	margin: 0 auto;
+	width: 100%;
 }
 
 a.anchor {
-	color: $orange;
+	// color: $orange;
 	text-decoration: none;
 }
 
-.post h1 {
-	color: $orange;
+h1 {
+	margin-top: 0;
+}
+
+h1 a, .post h1 {
+	display: block;
+	color: $dark;
+	font-family: $secondary_font;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+.post {
+	p.creation_date {
+		color: $light;
+		font-weight: 300;
+		text-align: center;
+		margin: 0;
+		font-size: 18px;
+		margin-bottom: 5px;
+	}
+	img {
+		margin: 0 auto;
+		display: block;
+		max-width: 100%;
+	}
 }
 
 .main {
+	margin-top: 100px;
 	float: left;
 	width: 70%;
 
@@ -68,5 +116,19 @@ a.anchor {
 			border: 5px solid #FFF;
 
 		}
+	}
+}
+
+a.read-more {
+	display: inline-block;
+	border: 2px solid $light;
+	color: $light;
+	padding: 5px 10px;
+	margin: 10px auto 60px auto;
+	text-align: center;
+
+	&::after {
+		content: ">>";
+		margin-left: 5px;
 	}
 }

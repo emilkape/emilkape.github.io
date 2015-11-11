@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://emilkape.github.io/Wlora-2014/</loc>
+    <loc>http://emilkape.github.io/wlora-2014/</loc>
     <lastmod>2015-11-11T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://emilkape.github.io/Przelecz-Llogara-2014/</loc>
+    <loc>http://emilkape.github.io/przelecz-llogara-2014/</loc>
     <lastmod>2015-11-11T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://emilkape.github.io/Postojna-2014/</loc>
+    <loc>http://emilkape.github.io/postojna-2014/</loc>
     <lastmod>2015-11-11T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://emilkape.github.io/Porto-Palermo-2014/</loc>
+    <loc>http://emilkape.github.io/porto-palermo-2014/</loc>
     <lastmod>2015-11-11T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://emilkape.github.io/Butrint-2014/</loc>
+    <loc>http://emilkape.github.io/butrint-2014/</loc>
     <lastmod>2015-11-11T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://emilkape.github.io/Lazienki-2015/</loc>
+    <loc>http://emilkape.github.io/lazienki-2015/</loc>
     <lastmod>2015-11-02T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://emilkape.github.io/Most-Na-Tarze-2013/</loc>
+    <loc>http://emilkape.github.io/most-na-tarze-2013/</loc>
     <lastmod>2015-08-23T00:00:00+02:00</lastmod>
   </url>
   <url>
-    <loc>http://emilkape.github.io/Maroko-2015/</loc>
+    <loc>http://emilkape.github.io/maroko-2015/</loc>
     <lastmod>2015-08-20T00:00:00+02:00</lastmod>
   </url>
   <url>
-    <loc>http://emilkape.github.io/404.html</loc>
+    <loc>http://emilkape.github.io/404/</loc>
   </url>
   <url>
     <loc>http://emilkape.github.io/about/</loc>
@@ -41,4 +41,28 @@
   <url>
     <loc>http://emilkape.github.io/</loc>
   </url>
+    <url>
+      <loc>http://emilkape.github.io/maroko-2015/</loc>
+    </url>
+    <url>
+      <loc>http://emilkape.github.io/most-na-tarze-2013/</loc>
+    </url>
+    <url>
+      <loc>http://emilkape.github.io/lazienki-2015/</loc>
+    </url>
+    <url>
+      <loc>http://emilkape.github.io/butrint-2014/</loc>
+    </url>
+    <url>
+      <loc>http://emilkape.github.io/porto-palermo-2014/</loc>
+    </url>
+    <url>
+      <loc>http://emilkape.github.io/postojna-2014/</loc>
+    </url>
+    <url>
+      <loc>http://emilkape.github.io/przelecz-llogara-2014/</loc>
+    </url>
+    <url>
+      <loc>http://emilkape.github.io/wlora-2014/</loc>
+    </url>
 </urlset>

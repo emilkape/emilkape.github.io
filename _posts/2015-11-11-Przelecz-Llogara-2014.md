@@ -22,4 +22,4 @@ During last year's drive from Cetinje to Njegusi, and afterwards 25 serpentines 
 <img src="/img/2014/albania/przelecz-llogara/DSC0351.png">
 <img src="/img/2014/albania/przelecz-llogara/DSC0361.png">
 
-<div class="fb-comments" data-href="http://emilkape.github.io/przelecz-llogara-2014" data-numposts="5"></div>
+<div class="fb-comments" data-href="http://emilkape.github.io/przelecz-llogara-2014" data-numposts="5" data-width="100%"></div>
