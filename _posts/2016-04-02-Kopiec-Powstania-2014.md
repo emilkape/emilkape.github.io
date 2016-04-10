@@ -17,4 +17,5 @@ cover: img/2014/kopiec/DSC0028.png
 <img src="/img/2014/kopiec/DSC0061.png">
 <img src="/img/2014/kopiec/DSC0062.png">
 
+
 <div class="fb-comments" data-href="http://emilkape.github.io/Kopiec-Powstania-2014" data-numposts="5" data-width="100%"></div>
