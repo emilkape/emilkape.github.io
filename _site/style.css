@@ -98,6 +98,26 @@ h1 a, .post h1 {
   border: 5px solid #FFF;
 }
 
+.pagination {
+  display: block;
+  margin: 0 auto;
+  max-width: 800px;
+  text-align: center;
+  margin-bottom: 20pt;
+}
+.pagination a {
+  color: #c1b8a3;
+}
+.pagination .page_number {
+  color: #5b5036;
+}
+.pagination .previous {
+  float: left;
+}
+.pagination .next {
+  float: right;
+}
+
 a.read-more {
   display: inline-block;
   border: 2px solid #c1b8a3;

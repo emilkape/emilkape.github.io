@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <article class="post">
 
       <p class="creation_date">{{ post.date | date: '%d/%m/%Y' }}</p>
@@ -24,4 +24,14 @@ layout: default
       </div>
     </article>
   {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Poprzednia</a>
+  {% endif %}
+  <span class="page_number ">Strona: {{ paginator.page }} z {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Następna</a>
+  {% endif %}
 </div>

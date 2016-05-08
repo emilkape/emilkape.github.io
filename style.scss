@@ -123,6 +123,26 @@ h1 a, .post h1 {
 	}
 }
 
+.pagination {
+	display: block;
+	margin: 0 auto;
+	max-width: 800px;
+	text-align: center;
+	margin-bottom: 20pt;
+	a {
+		color: $light;
+	}
+	.page_number {
+		color: $dark;
+	}
+	.previous {
+		float: left;
+	}
+	.next {
+		float: right;
+	}
+}
+
 a.read-more {
 	display: inline-block;
 	border: 2px solid $light;
