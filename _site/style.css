@@ -33,6 +33,9 @@ p, i {
 .menu ul li {
   margin-bottom: 0.125em;
 }
+.menu .submenu ul {
+  margin-bottom: 0 !important;
+}
 .menu .category {
   padding-left: 0.875em;
   color: #5b5036;
