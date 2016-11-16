@@ -23,6 +23,7 @@ p, i {
 }
 .menu a.anchor {
   color: #c1b8a3;
+  text-decoration: none;
 }
 .menu ul {
   list-style-type: none;
