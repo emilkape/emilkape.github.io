@@ -7,6 +7,14 @@
     <atom:link href="http://emilkape.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Sao Miguel 2016</title>
+        <description></description>
+        <pubDate>Tue, 11 Apr 2017 00:00:00 +0200</pubDate>
+        <link>http://emilkape.github.io/Sao-Miguel-2016/</link>
+        <guid isPermaLink="true">http://emilkape.github.io/Sao-Miguel-2016/</guid>
+      </item>
+    
+      <item>
         <title>Ogrody w Ponta Delgada</title>
         <description>&lt;p&gt;&lt;img src=&quot;/img/2016/azory/pontadelgada/azory-0348.jpg&quot;&gt;&lt;/p&gt;
 
@@ -317,36 +325,6 @@ Do trzech razy sztuka. Wreszcie udało mi się spłynąć Dunajcem przy ładnej 
         <pubDate>Thu, 03 Nov 2016 00:00:00 +0100</pubDate>
         <link>http://emilkape.github.io/Pieniny-2016/</link>
         <guid isPermaLink="true">http://emilkape.github.io/Pieniny-2016/</guid>
-      </item>
-    
-      <item>
-        <title>Morskie Oko, Tatry</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0229.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0002.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0005.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0014.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0024.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0032.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0047.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0052.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0070.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0072.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0096.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0098.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0104.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0112.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0118.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0126.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0142.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0186.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0211.jpg&quot;&gt;
-&lt;img src=&quot;/img/2016/gory/morskieoko/DSC0223.jpg&quot;&gt;&lt;/p&gt;
-
-&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://emilkape.github.io/Morskie-Oko-2016&quot; data-numposts=&quot;5&quot; data-width=&quot;100%&quot;&gt;&lt;/div&gt;
-</description>
-        <pubDate>Thu, 20 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://emilkape.github.io/Morskie-Oko-2016/</link>
-        <guid isPermaLink="true">http://emilkape.github.io/Morskie-Oko-2016/</guid>
       </item>
     
   </channel>
